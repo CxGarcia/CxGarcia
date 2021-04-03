@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Cristobal and I am a Full Stack developer from Venezuela. I am keen on building experiences from the ground up and being present at every point of the product including the tech, design, and commercial aspects.
+My name is Cristobal, and I am a Full Stack developer from Venezuela. I am keen on building experiences from the ground up by being a part of every aspect of a product, especially at the intersection where tech, design, and business meet.
 
 🚀 I’m currently working on Plantopi, an app to automatically irrigate your plants\
 \
