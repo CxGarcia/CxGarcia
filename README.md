@@ -10,3 +10,6 @@ My name is Cristobal, and I am a Full Stack developer from Venezuela. I am keen 
 😎 In my free time I enjoy kitesurfing, snowboarding, overlanding, travelling, and yoga\
 \
 🧐 Fun fact: In a past life, I was an exec in the maritime industry. By the cusp of my career, I was managing a team of over 120 people however, my heart was somewhere else. I was born with the need to create and, although my job was fulfilling in many ways, creating wasn't at the core of it
+
+
+![baby-girl-in-la-gransa](https://github.com/CxGarcia/CxGarcia/blob/main/n%CC%83i.gif)
