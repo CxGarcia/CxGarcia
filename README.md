@@ -3,7 +3,7 @@ My name is Cristobal, and I am a Full Stack developer from Venezuela. I am keen 
 
 🚀 Currently working on Plantopi, an app to automatically irrigate your plants\
 \
-🌱 Currently learning Three.js, 3D animations, and microcontrollers programming in C++\
+🌱 Currently learning threejs-journey.xyz by Bruno Simon, EpicReact.dev by Kent C. Dodds, and microcontrollers programming in C++\
 \
 🐶 Animal lover and protector ♥️\
 \
