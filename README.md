@@ -1,11 +1,11 @@
 ### Hi there 👋
 My name is Cristobal, and I am a Full Stack developer from Venezuela. I am keen on building experiences from the ground up by being a part of every aspect of a product, especially at the intersection where tech, design, and business meet.
 
-🚀 I’m currently working on Plantopi, an app to automatically irrigate your plants\
+🚀 Currently working on Plantopi, an app to automatically irrigate your plants\
 \
-🌱 I’m currently learning Three.js, 3D animations, and microcontrollers programming in C++\
+🌱 Currently learning Three.js, 3D animations, and microcontrollers programming in C++\
 \
-🐶 I'm an animal lover and protector ♥️\
+🐶 Animal lover and protector ♥️\
 \
 😎 In my free time I enjoy kitesurfing, snowboarding, overlanding, travelling, and yoga\
 \
