@@ -3,7 +3,7 @@
 ### Hi there 👋
 My name is Cristobal, and I am a Full Stack developer from Venezuela. 
 
-I have a passion for building experiences from the ground up and being a part of every aspect of a product, especially at the intersection where tech, design, and marketing meet. This junction is where I can add the most value since I know the tools to translate business requirements into software that speaks to users.
+I have a passion for building experiences from the ground up and being a part of every aspect of a product, especially at the intersection where tech, design, and marketing meet. This junction is where I can add the most value since I know the tools to translate business requirements into software that appeals to users.
 
 
 ## About me
