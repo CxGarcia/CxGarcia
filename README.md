@@ -7,9 +7,7 @@ I have a passion for building experiences from the ground up and being a part of
 
 
 ## About me
-🚀 Currently working in Dev Collectiv, an effort to bring the benefits of open-source software to people from non-technical backgrounds\
-\
-🛠 Currently building Plantopi, an app to automatically irrigate your plants\
+🚀 Currently working in BCG Gamma as a software engineer\
 \
 🌱 Currently learning [threejs-journey](https://threejs-journey.xyz) from [@brunosimon](https://github.com/brunosimon), [epic-react](https://epicreact.dev) from [@kentcdodds](https://github.com/kentcdodds), and microcontrollers programming in C++\
 \
