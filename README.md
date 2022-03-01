@@ -6,7 +6,7 @@ My name is Cristobal, and I am a full stack developer from Venezuela. 
 ## About me
 🚀 Currently working in BCG Gamma as a software engineer\
 \
-🌱 Currently learning [threejs-journey](https://threejs-journey.xyz) from [@brunosimon](https://github.com/brunosimon), [epic-react](https://epicreact.dev) from [@kentcdodds](https://github.com/kentcdodds), and microcontrollers programming in C++\
+🌱 Currently learning [threejs-journey](https://threejs-journey.xyz) from [@brunosimon](https://github.com/brunosimon), and microcontrollers programming in C++\
 \
 🐶 Animal lover and protector ♥️\
 \
