@@ -3,9 +3,6 @@
 ### Hi there 👋
 My name is Cristobal, and I am a full stack developer from Venezuela. 
 
-I have a passion for building experiences from the ground up and being a part of every aspect of a product, especially at the intersection where tech, design, and marketing meet.
-
-
 ## About me
 🚀 Currently working in BCG Gamma as a software engineer\
 \
