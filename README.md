@@ -2,4 +2,3 @@
 
 ### hey there 👋
 my name is Cristobal, and I am a full-stack developer from Venezuela - currently working in [Bird](https://bird.com/)
-\
